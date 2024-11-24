@@ -1,3 +1,7 @@
+**Veja o projeto ao vivo:**
+
+**[Gerador de Cores Exadecimais ](#295AD1)**
+
 Este é um **gerador de paleta de cores** simples, criado com HTML, CSS e JavaScript, que permite ao usuário visualizar uma seleção solicitada de cores com seus respectivos códigos hexadecimais. A interface é interativa e permite copiar o código hexadecimal de qualquer cor com um simples clique.
 
 # Funcionalidades:
